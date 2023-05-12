@@ -1,0 +1,13 @@
+body,
+body * {
+    margin: 15px 25px;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Work Sans', sans-serif;
+}
+
+header {
+
+    display: flex;
+
+}
