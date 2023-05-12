@@ -132,3 +132,17 @@ margin-left: 0.4em;
 .column > img {
     margin-bottom: 70px;
 }
+
+.duk {
+    width: 800px;
+    background-color: aquamarine;
+
+}
+.duk .title {
+    background-color: white;
+    padding-top: 0;
+}
+
+.text {
+
+}
