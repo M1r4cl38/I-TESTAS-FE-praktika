@@ -158,7 +158,7 @@ margin-left: 0.4em;
     width: 350px;
     padding-bottom: 30px;
 }
-.try {
+.columns {
     display: flex;
     flex-wrap: wrap;
     justify-content: space-between;
